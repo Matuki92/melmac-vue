@@ -6,7 +6,7 @@
     >
       <img
         class="h-full w-8 opacity-75 block"
-        :src="`/img/icons/${dropdownIconName}.svg`"
+        :src="`/melmac-vue/img/icons/${dropdownIconName}.svg`"
         alt="menu"
       >
     </div>

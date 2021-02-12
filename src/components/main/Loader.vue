@@ -12,7 +12,7 @@
 
 <style scoped>
 .logo {
-  background-image: url('/img/logo/logo.png');
+  background-image: url('/melmac-vue/img/logo/logo.png');
   background-size: contain;
   background-repeat: no-repeat;
 }

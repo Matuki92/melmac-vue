@@ -5,7 +5,7 @@
 
       <div class="flex-shrink-0">
         <router-link to="/">
-          <img class="h-8" src="/img/logo/logo-hor.png" alt="logo">
+          <img class="h-8" src="/melmac-vue/img/logo/logo-hor.png" alt="logo">
         </router-link>
       </div>
 

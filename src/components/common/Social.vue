@@ -21,12 +21,12 @@ export default {
     const config = [
       {
         name: 'Instagram',
-        src: '/img/icons/instagram.svg',
+        src: '/melmac-vue/img/icons/instagram.svg',
         link: 'https://www.instagram.com/universo_melmac/',
       },
       {
         name: 'Facebook',
-        src: '/img/icons/facebook.svg',
+        src: '/melmac-vue/img/icons/facebook.svg',
         link: 'https://www.facebook.com/UniversoMelmac',
       },
     ];

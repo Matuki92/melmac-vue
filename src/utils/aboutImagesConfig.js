@@ -1,16 +1,16 @@
 export const landing = [
   {
-    src: '/img/backgrounds/about-bg.jpeg',
+    src: '/melmac-vue/img/backgrounds/about-bg.jpeg',
   }
 ];
 
 export const members = [
   {
-    src: '/img/images/member-pablo.jpg',
+    src: '/melmac-vue/img/images/member-pablo.jpg',
     name: 'Pablo Zabala',
   },
   {
-    src: '/img/images/member-pipi.jpg',
+    src: '/melmac-vue/img/images/member-pipi.jpg',
     name: 'Pipi Pierretti',
   },
 ];
