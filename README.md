@@ -22,3 +22,9 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+# TODO:
+- about page background quality
+- route scroll to top on enter
+- route loading flash?
