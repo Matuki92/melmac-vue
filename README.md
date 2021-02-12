@@ -28,3 +28,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 - about page background quality
 - route scroll to top on enter
 - route loading flash?
+
+git subtree push --prefix dist origin gh-pages
